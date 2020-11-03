@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27658" started-at="2020-11-01T17:18:45Z" finished-at="2020-11-01T17:19:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27658" started-at="2020-11-01T17:18:45Z" finished-at="2020-11-01T17:19:12Z">
+      <class name="com.qa.hubspot.tests.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@6b26e945]" name="setup" is-config="true" duration-ms="3211" started-at="2020-11-01T12:18:45Z" finished-at="2020-11-01T12:18:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginTest()[pri:3, instance:com.qa.hubspot.tests.LoginPageTest@6b26e945]" name="LoginTest" duration-ms="24052" started-at="2020-11-01T12:18:48Z" description="Checks the login to HubSpot" finished-at="2020-11-01T12:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@6b26e945]" name="tearDown" is-config="true" duration-ms="187" started-at="2020-11-01T12:19:12Z" finished-at="2020-11-01T12:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
